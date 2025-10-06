@@ -8,7 +8,7 @@ To develop a Recurrent Neural Network (RNN) model for predicting stock prices us
 
 **THEORY**
 
-A Recurrent Neural Network (RNN) is a type of deep learning model designed to handle sequential data, making it well-suited for stock price prediction, a classic time-series forecasting problem. Unlike traditional feed-forward neural networks, RNNs possess internal memory that allows them to use information from previous data points to influence the current output, enabling them to recognize patterns and trends over time
+The given problem is to predict the google stock price based on time. For this we are provided with a dataset which contains features like Date, Opening Price, Highest Price, Lowest Price, Closing Price, Adjusted Closing Price, Volume. Based on the given features, develop a RNN model to predict, the price of stocks in future.
 
 **Neural Network Model**
 
